@@ -132,6 +132,13 @@ return [
         'attribute-name' => [
             'rule-name' => 'custom-message',
         ],
+//        'email' => [
+//            'required'  => '邮箱地址不能为空'
+//        ],
+//        'name' => [
+//            'required' => '名字不能为空',
+//            'max'      => '最大不超过50字符'
+//        ],
     ],
 
     /*
